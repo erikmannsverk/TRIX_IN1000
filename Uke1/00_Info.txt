@@ -1,0 +1,3 @@
+Hei.
+
+Denne uken jobbet vi med å printe til terminalen, og basic Python.
