@@ -1,0 +1,2 @@
+Hei
+I uke 4 jobbet vi med løkker. Spesifikt for-løkker og while-løkker. Vi jobbet med dette og lister sammen, siden det er to temaer som går hånd i hånd.
