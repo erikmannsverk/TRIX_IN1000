@@ -1,0 +1,4 @@
+Hei, fra uke 5.
+
+Lese fra og skrive til filer.
+Parameter-overføring og variabel-skop.
