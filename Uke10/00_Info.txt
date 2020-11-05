@@ -1,0 +1,3 @@
+Info TrixOppgaver uke 10:
+
+Vi jobbet videre med samhandlingen mellom objekter av flere klasser
